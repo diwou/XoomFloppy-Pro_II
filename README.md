@@ -3,7 +3,7 @@
 
 ![](https://codeberg.org/diwou/XoomFloppy-Pro_II/raw/branch/main/Images/XoomFloppy_Pro_II.jpg)
 
-Im Jahr 2018 hatte ich die erste Version der [XoomFloppy Pro](https://github.com/DL2DW/XoomFloppy_Pro_2018) entwickelt – ein XUM1541-Gerät, das jedoch vollständig kompatibel mit dem [ZoomFloppy](http://store.go4retro.com/zoomfloppy/) ist und dieselbe Firmware verwendet.
+Im Jahr 2018 hatte ich die erste Version der [XoomFloppy Pro](https://codeberg.org/diwou/XoomFloppy_Pro_2018) entwickelt – ein XUM1541-Gerät, das jedoch vollständig kompatibel mit dem [ZoomFloppy](http://store.go4retro.com/zoomfloppy/) ist und dieselbe Firmware verwendet.
 
 Im Laufe der Zeit habe ich einige Verbesserungen vorgenommen. Alle Bauteile befinden sich nun auf der Oberseite. Zudem wurde ein Centronics-Anschluss für die IEEE-488-Schnittstelle ergänzt, sodass handelsübliche GPIB-Kabel verwendet werden können.
 
